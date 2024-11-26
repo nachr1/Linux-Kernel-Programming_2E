@@ -6,14 +6,14 @@ https://github.com/PacktPublishing/Linux-Kernel-Programming_2E/tree/master/solut
 Chapter 1 : Questions and/or Assignments
 
 1. VM is a common abbreviation used in virtualization technology for a
-"guest" system. What does it stand for?
+"guest" system. What does it stand for?  c)
   a) Virtual Monkey
   b) Virtual Mac
   c) Virtual Machine
   d) Very very Maddening
 
 2. On Linux, can you name a directory *,hey,whatacoolname,huh? (yes or
-no)?
+no)?  no
 
 INFO:
 Hang on before you try it out! Why, you may ask? In general,
@@ -21,7 +21,7 @@ you should not do so. (Okay, try it out now, but on a VM, and be
 careful! See the 'solution' to see why you ideally shouldn't).
 
 3. Let's say we are running on an x86-64 host system running Linux and have
-a 32-bit ARM "target" board. The job of a cross compiler is to do what?
+a 32-bit ARM "target" board. The job of a cross compiler is to do what?  b)
   a) Compile code that's on the target system into an x86-64 binary
      executable that can run on the host system.
   b) Compile code that's on the host system into an ARM-32 binary
