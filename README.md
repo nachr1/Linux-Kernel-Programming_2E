@@ -1,4 +1,4 @@
-# Linux Kernel Programming, Second Edition(modify
+# Linux Kernel Programming, Second Edition(modify)
 git
 This is the code repository for [Linux Kernel Programming, Second Edition](https://www.packtpub.com/product/linux-kernel-programming-second-edition/9781803232225), published by Packt.
 
